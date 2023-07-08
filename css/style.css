@@ -476,18 +476,18 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #9E69C5
-  ;
+  background: url(../img/intro-arg-pr.png);
+  background-size: cover;
+  padding: 60px 0;
 }
 
 /* About Us Section
 --------------------------------*/
 
 #about {
-  background: #9E69C5
-  ;
-  padding: 60px 0;
-}
+  background: url(../img/intro-arg-pr.png);
+  background-size: cover;
+  padding: 60px 0;}
 
 #about .about-container .background {
   margin: 20px 0;
@@ -928,8 +928,8 @@ h6 {
 --------------------------------*/
 
 #team {
-  background: #9E69C5
-  ;
+  background: url(../img/intro-arg-pr.png);
+  background-size: cover;
   padding: 60px 0;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
